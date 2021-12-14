@@ -1,5 +1,4 @@
 # World_Weather_Analysis
-# World_Weather_Analysis
 ## Overview 
 Working on a project for PlanMyTrip internet top travel technology company 
 Jack is ahead of the analysis team and has asked me for help in addition to the user interface team. Jack as asked me to collect and present data for customers via search page so they can filter on preferred criteria when looking for vacation destinations.  This will help the customer find the ideal hotel anywhere in the world. We will use many applications and software in our guide to complete this task.
