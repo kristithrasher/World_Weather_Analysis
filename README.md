@@ -1,12 +1,12 @@
 # World_Weather_Analysis
 ## Overview 
-Working on a project for PlanMyTrip internet top travel technology company 
-Jack is ahead of the analysis team and has asked me for help in addition to the user interface team. Jack as asked me to collect and present data for customers via search page so they can filter on preferred criteria when looking for vacation destinations.  This will help the customer find the ideal hotel anywhere in the world. We will use many applications and software in our guide to complete this task.
+Working on a project for PlanMyTrip internet top travel technology company.  
+Jack is ahead of the analysis team and has asked me for help in addition to the user interface team. Jack as asked me to collect and present data for customers via search page so they can filter on preferred criteria when looking for vacation destinations.  This will help the customer find the ideal hotel anywhere in the world. We used many applications and software in our guide to complete this task.
 All based on weather criteria as well so many different tools will be used.
-How might we provide real-time suggestions for our client's ideal hotels? 
-Hotels that were within a given range of latitude and longitude and that provided the right kind of weather for the client.
+We provided real-time suggestions for our client's ideal hotels and travel destinations based on weather search via input by customer. 
+Destinations including dities and hotels were within a given range of latitude and longitude that provided the right kind of weather for the client.
 
-When you get back to your desk, your first step is to write out a basic plan for how you'll write code that can do this fairly complex task.
+
 
 ## Tools used to complete job requirement 
 Matplotlib to create scatterplot series. JSon weather data add to pandas dataframes
@@ -18,5 +18,18 @@ Store Data in DataFrames
 Plot Data using matplotlib and google maps
 Perform Statistical Analysis using SciPy
 
+## Deliverable 1:  Retrieve Weather Data
 
+## Deliverable2:  Create Customer Travel Destinations Map
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/94208810/146660765-0e7dd6e2-37a0-4a6e-8efe-7d4ceb63fe02.png)
+
+
+
+## Deliverable3:  Create a Travel Itinerary Map
+
+![Weather_Py_travel_map](https://user-images.githubusercontent.com/94208810/146660771-1f17d8ee-d53f-44d8-8d15-0a8204c9446e.png)
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/94208810/146660772-031c3f4c-3970-4869-a941-9c238fc47b27.png)
+
+## Summary
+We completed this task by using API keys from goole. We used openweathermap and googlemaps. After retrieving the weather data. We then took the users input for desired weather temperatures asking them their desired min and max temperatures. Taking the users input we were able to retrieve hotel and city information and allow them to then choose their destination by once again the user entering the city's name they wanted to visit. Finalizing their requests with a travel itinerary map.  
 
