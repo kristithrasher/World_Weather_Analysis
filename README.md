@@ -28,7 +28,8 @@ Perform Statistical Analysis using SciPy
 ## Deliverable3:  Create a Travel Itinerary Map
 
 ![Weather_Py_travel_map](https://user-images.githubusercontent.com/94208810/146660771-1f17d8ee-d53f-44d8-8d15-0a8204c9446e.png)
-![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/94208810/146660772-031c3f4c-3970-4869-a941-9c238fc47b27.png)
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/94208810/146989017-c01dff28-188b-4f3d-acdf-656b3a7867bd.png)
+
 
 ## Summary
 We completed this task by using API keys from goole. We used openweathermap and googlemaps. After retrieving the weather data. We then took the users input for desired weather temperatures asking them their desired min and max temperatures. Taking the users input we were able to retrieve hotel and city information and allow them to then choose their destination by once again the user entering the city's name they wanted to visit. Finalizing their requests with a travel itinerary map.  
